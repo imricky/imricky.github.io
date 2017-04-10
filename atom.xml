@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-16T16:19:50.670Z</updated>
+  <updated>2017-04-10T09:15:40.187Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新中大实习第一天</title>
+    <link href="http://yoursite.com/2017/04/05/practice-days-in-newgrand-1/"/>
+    <id>http://yoursite.com/2017/04/05/practice-days-in-newgrand-1/</id>
+    <published>2017-04-05T05:42:00.000Z</published>
+    <updated>2017-04-10T09:15:40.187Z</updated>
+    
+    <content type="html"><![CDATA[<p>杭州，很美；杭州，很难。<br>在这个美丽的城市 出人头地  真的很难</p>
+<blockquote><p>噫吁嚱， 危乎高哉！ 蜀道之难， 难于上青天！</p>
+<footer><strong>李白</strong><cite>蜀道难</cite></footer></blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;杭州，很美；杭州，很难。&lt;br&gt;在这个美丽的城市 出人头地  真的很难&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;噫吁嚱， 危乎高哉！ 蜀道之难， 难于上青天！&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;李白&lt;/strong&gt;&lt;cite&gt;蜀道难&lt;/cite&gt;&lt;/footer&gt;&lt;/
+    
+    </summary>
+    
+    
+      <category term="实习" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>跨域那些事儿</title>
@@ -318,7 +343,7 @@
     <link href="http://yoursite.com/2017/01/28/FightingforDream/"/>
     <id>http://yoursite.com/2017/01/28/FightingforDream/</id>
     <published>2017-01-28T02:42:00.000Z</published>
-    <updated>2017-02-01T15:04:38.520Z</updated>
+    <updated>2017-04-10T09:13:06.409Z</updated>
     
     <content type="html"><![CDATA[<p>大年初一，阴天，,老家，冷</p>
 <p>2017年给自己的目标：</p>
