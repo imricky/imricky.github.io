@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-14T12:39:06.029Z</updated>
+  <updated>2017-04-15T11:50:36.328Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新中大实习第11天</title>
+    <link href="http://yoursite.com/2017/04/15/practiceDay11/"/>
+    <id>http://yoursite.com/2017/04/15/practiceDay11/</id>
+    <published>2017-04-15T11:35:00.000Z</published>
+    <updated>2017-04-15T11:50:36.328Z</updated>
+    
+    <content type="html"><![CDATA[<p>星期五，晴，终于睡到8点钟起床了。起床之后外面天气贼好。</p>
+<p>今天开始了培训，具体过程不表。<br><a id="more"></a><br>培训下午倒是喝了几碗鸡汤，感觉又明白了挺多东西的。</p>
+<p>不过也真的特别累，最后还要考试，有点慌，据说还是很严格的†</p>
+<p>小米枕头也到了。</p>
+<p>好好学习吧~</p>
+<p>把今天学到的一些鸡汤记录一下：</p>
+<blockquote><p>发现问题，说明你在工作；<br>解决问题，说明你有能力。</p>
+</blockquote>
+<blockquote><p>耐得住寂寞，才守得住繁华</p>
+</blockquote>
+<p>共勉！</p>
+<p><img src="https://okklhum46.qnssl.com/practiceDay11.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;星期五，晴，终于睡到8点钟起床了。起床之后外面天气贼好。&lt;/p&gt;
+&lt;p&gt;今天开始了培训，具体过程不表。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="实习" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>新中大实习第10天</title>
