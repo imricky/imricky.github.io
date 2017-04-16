@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-15T11:50:36.328Z</updated>
+  <updated>2017-04-16T12:44:18.827Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新中大实习第12天</title>
+    <link href="http://yoursite.com/2017/04/16/practiceDay12/"/>
+    <id>http://yoursite.com/2017/04/16/practiceDay12/</id>
+    <published>2017-04-16T12:40:00.000Z</published>
+    <updated>2017-04-16T12:44:18.827Z</updated>
+    
+    <content type="html"><![CDATA[<p>星期日，晴。</p>
+<p>培训第二天<br><a id="more"></a><br>两个字：<strong>麻木</strong></p>
+<p>也许是内容太多了吧，感觉时间很紧张。感觉在公众场合不适合吐槽，过两天转入私密日记</p>
+<p>心还是浮躁，想的太多。</p>
+<blockquote><p>Keep it Simple &amp;&amp; Stupid!</p>
+</blockquote>
+<p><img src="https://okklhum46.qnssl.com/practiceDay12.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;星期日，晴。&lt;/p&gt;
+&lt;p&gt;培训第二天&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="实习" scheme="http://yoursite.com/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>新中大实习第11天</title>
